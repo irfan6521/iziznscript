@@ -1,0 +1,1 @@
+# ini izin ip lama
